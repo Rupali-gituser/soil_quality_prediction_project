@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  background-image:url("soil.jpg");
+  background-size: cover;
+}
+h1{
+  
+  color:white;
+  font-size: 50px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+.nav-links {
+  margin-top: 50px;
+  display:flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.nav-links a {
+  
+  text-decoration: none;
+  color: white;
+  background-color: #4CAF50;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  
+}
+
+.nav-links a:hover {
+  background-color: #45a049;
+}
+footer{
+  text-align: center;
+  margin-top: 50px;
+  color:white;
+}
+
+

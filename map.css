@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff;
+  color: white;
+  padding: 20px;
+  background-image: url("soil.jpg");
+  
+  background-size: cover;
+}
+h1{
+  font-size: 80px;
+  font-weight: 200;
+  font-style: oblique;
+  text-align: center;
+  
+  text-decoration:underline;
+}
+
+
+.home{
+  text-align: center;
+  text-decoration: none;
+  color:white;
+  margin-top: 150px;
+}
+a{
+  text-decoration: none;
+  color:white;
+}
